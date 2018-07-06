@@ -1,0 +1,19 @@
+{
+    "name": "elmictlan/surveyexp",
+    "description": "ExpertCell Quality Survey package",
+    "type": "project",
+    "license": "Corporativa",
+    "authors": [
+        {
+            "name": "Ricardo Rincon de la Torre",
+            "email": "ricardomangore@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ElMictlan\\SurveyExp\\": "src"
+        }
+    }
+    "minimum-stability": "dev",
+    "require": {}
+}
